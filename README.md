@@ -28,6 +28,8 @@ You can click the Preview link to take a look at your changes.
  ## Projects 💼:
 | Project Name | Description |
 | -----------  | ----------- |
+| [Live News](https://github.com/PurviSaini/Live-News) | A website that displays live news |
+| [CARbo](https://github.com/PurviSaini/CARbo) | A Web based project that displays various cars brands and allow user to select its model and access its details|
 | [Create-Notes](https://github.com/PurviSaini/CreateNotes) | A note taking website with add and delete note features |
 | [DTC-Bus-Routing](https://github.com/PurviSaini/DTC-Bus-Routing) | Shows the best route between specified source and destination location |
 | [Random-Jokes](https://github.com/PurviSaini/Random-Jokes) | A browser extension that shows a fresh joke everytime it experiences a click |
