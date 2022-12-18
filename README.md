@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React js
 - 👯 I’m looking to collaborate on Open Source
 - 🥇 I'm proficient in Frontend Development.
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 [![@purvisaini's Holopin board](https://holopin.me/purvisaini)](https://holopin.io/@purvisaini)
 <!---
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <img title="Git" height="40px" src="https://user-images.githubusercontent.com/85930567/155733391-1cad1bbc-b9d6-4fd9-91c2-37f778f88a96.png" /> &nbsp;&nbsp;&nbsp;
   <img title="VS Code" height="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
   
- ---
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
  ## Projects 💼:
 | Project Name | Description |
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 | [DTC-Bus-Routing](https://github.com/PurviSaini/DTC-Bus-Routing) | Shows the best route between specified source and destination location |
 | [Random-Jokes](https://github.com/PurviSaini/Random-Jokes) | A browser extension that shows a fresh joke everytime it experiences a click |
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
   ## GitHub Stats:
  
@@ -45,14 +45,14 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PurviSaini&theme=vue-dark&hide_border=true&border_radius=5.2" alt="PurviSaini" />
 </p>
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contribution Graph 🎡
 <p align="left">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PurviSaini&theme=xcode" />
 </p>
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
   ## Let's Connect:
 
@@ -66,4 +66,4 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
