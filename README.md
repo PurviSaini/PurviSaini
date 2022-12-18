@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
  ## Projects 💼:
 | Project Name | Description |
 | -----------  | ----------- |
+| [CyberPal](https://github.com/PurviSaini/Cyberpal) | Desktop voice assistant |
 | [Live News](https://github.com/PurviSaini/Live-News) | A website that displays live news |
 | [CARbo](https://github.com/PurviSaini/CARbo) | A Web based project that displays various cars brands and allow user to select its model and access its details|
 | [Create-Notes](https://github.com/PurviSaini/CreateNotes) | A note taking website with add and delete note features |
@@ -49,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Contribution Graph 🎡
 <p align="left">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PurviSaini&theme=xcode" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PurviSaini&theme=xcode"/>
 </p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
