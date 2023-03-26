@@ -28,8 +28,10 @@ You can click the Preview link to take a look at your changes.
  ## Projects 💼:
 | Project Name | Description |
 | -----------  | ----------- |
+| [AI Translator](https://github.com/PurviSaini/AI-Translator) | Translation of English text to user intended language text |
+| [Quizeria](https://github.com/PurviSaini/Quizeria) | Bring out the whiz in you !! |
+| [Healthy Me](https://github.com/PurviSaini/Healthy-Me) | Health check everyday, Fitness forever stays!!! |
 | [CyberPal](https://github.com/PurviSaini/Cyberpal) | Desktop voice assistant |
-| [Live News](https://github.com/PurviSaini/Live-News) | A website that displays live news |
 | [CARbo](https://github.com/PurviSaini/CARbo) | A Web based project that displays various cars brands and allow user to select its model and access its details|
 | [Create-Notes](https://github.com/PurviSaini/CreateNotes) | A note taking website with add and delete note features |
 | [DTC-Bus-Routing](https://github.com/PurviSaini/DTC-Bus-Routing) | Shows the best route between specified source and destination location |
