@@ -28,10 +28,10 @@ You can click the Preview link to take a look at your changes.
  ## Projects 💼:
 | Project Name | Description |
 | -----------  | ----------- |
+| [TeamHub](https://github.com/PurviSaini/TeamHub) | A platform where developers can create a team while participating in a hackathon, here they can experience the ease of sharing common resources to the team and divide the work amongst themselves  |
 | [AI Translator](https://github.com/PurviSaini/AI-Translator) | Translation of English text to user intended language text |
 | [Quizeria](https://github.com/PurviSaini/Quizeria) | Bring out the whiz in you !! |
 | [Healthy Me](https://github.com/PurviSaini/Healthy-Me) | Health check everyday, Fitness forever stays!!! |
-| [CyberPal](https://github.com/PurviSaini/Cyberpal) | Desktop voice assistant |
 | [CARbo](https://github.com/PurviSaini/CARbo) | A Web based project that displays various cars brands and allow user to select its model and access its details|
 | [Create-Notes](https://github.com/PurviSaini/CreateNotes) | A note taking website with add and delete note features |
 | [DTC-Bus-Routing](https://github.com/PurviSaini/DTC-Bus-Routing) | Shows the best route between specified source and destination location |
@@ -41,10 +41,6 @@ You can click the Preview link to take a look at your changes.
 
   ## GitHub Stats:
  
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PurviSaini&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Purvi" /></p>
-  
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=PurviSaini&show_icons=true&locale=en&theme=tokyonight" alt="PurviSaini" /> <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PurviSaini&theme=vue-dark&hide_border=true&border_radius=5.2" alt="PurviSaini" />
 </p>
 
