@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
  ## Projects 💼:
 | Project Name | Description |
 | -----------  | ----------- |
+| [RepoReport](https://github.com/PurviSaini/RepoReport)  | github repository statistics|
 | [TeamHub](https://github.com/PurviSaini/TeamHub) | A platform where developers can create a team while participating in a hackathon, here they can experience the ease of sharing common resources to the team and divide the work amongst themselves  |
 | [AI Translator](https://github.com/PurviSaini/AI-Translator) | Translation of English text to user intended language text |
 | [Quizeria](https://github.com/PurviSaini/Quizeria) | Bring out the whiz in you !! |
