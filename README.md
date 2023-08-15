@@ -30,13 +30,13 @@ You can click the Preview link to take a look at your changes.
 | -----------  | ----------- |
 | [RepoReport](https://github.com/PurviSaini/RepoReport)  | github repository statistics|
 | [TeamHub](https://github.com/PurviSaini/TeamHub) | A platform where developers can create a team while participating in a hackathon, here they can experience the ease of sharing common resources to the team and divide the work amongst themselves  |
-| [AI Translator](https://github.com/PurviSaini/AI-Translator) | Translation of English text to user intended language text |
-| [Quizeria](https://github.com/PurviSaini/Quizeria) | Bring out the whiz in you !! |
-| [Healthy Me](https://github.com/PurviSaini/Healthy-Me) | Health check everyday, Fitness forever stays!!! |
 | [CARbo](https://github.com/PurviSaini/CARbo) | A Web based project that displays various cars brands and allow user to select its model and access its details|
 | [Create-Notes](https://github.com/PurviSaini/CreateNotes) | A note taking website with add and delete note features |
-| [DTC-Bus-Routing](https://github.com/PurviSaini/DTC-Bus-Routing) | Shows the best route between specified source and destination location |
 | [Random-Jokes](https://github.com/PurviSaini/Random-Jokes) | A browser extension that shows a fresh joke everytime it experiences a click |
+| [Quizeria](https://github.com/PurviSaini/Quizeria) | Bring out the whiz in you !! |
+| [Healthy Me](https://github.com/PurviSaini/Healthy-Me) | Health check everyday, Fitness forever stays!!! |
+| [DTC-Bus-Routing](https://github.com/PurviSaini/DTC-Bus-Routing) | Shows the best route between specified source and destination location |
+
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
