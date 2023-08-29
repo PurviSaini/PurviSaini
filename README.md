@@ -41,10 +41,11 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
   ## GitHub Stats:
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PurviSaini&theme=vue-dark&hide_border=true&border_radius=5.2" alt="PurviSaini" />
-</p>
 
+  ![](https://github-readme-stats.vercel.app/api?username=PurviSaini&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PurviSaini&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PurviSaini&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contribution Graph 🎡
