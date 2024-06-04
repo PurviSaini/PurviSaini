@@ -28,11 +28,10 @@ You can click the Preview link to take a look at your changes.
  ## Projects 💼:
 | Project Name | Description |
 | -----------  | ----------- |
-| [RepoReport](https://github.com/PurviSaini/RepoReport)  | github repository statistics|
+| [SocietySync](https://github.com/PurviSaini/SocietySync) | A college society management platform with three interfaces for three different roles |
+| [StudyPlanner](https://github.com/PurviSaini/Study-Planner) | A platform for assessing daily task progress and keep track of weekly goals | 
 | [TeamHub](https://github.com/PurviSaini/TeamHub) | A platform where developers can create a team while participating in a hackathon, here they can experience the ease of sharing common resources to the team and divide the work amongst themselves  |
 | [CARbo](https://github.com/PurviSaini/CARbo) | A Web based project that displays various cars brands and allow user to select its model and access its details|
-| [Create-Notes](https://github.com/PurviSaini/CreateNotes) | A note taking website with add and delete note features |
-| [Random-Jokes](https://github.com/PurviSaini/Random-Jokes) | A browser extension that shows a fresh joke everytime it experiences a click |
 | [Quizeria](https://github.com/PurviSaini/Quizeria) | Bring out the whiz in you !! |
 | [Healthy Me](https://github.com/PurviSaini/Healthy-Me) | Health check everyday, Fitness forever stays!!! |
 | [DTC-Bus-Routing](https://github.com/PurviSaini/DTC-Bus-Routing) | Shows the best route between specified source and destination location |
